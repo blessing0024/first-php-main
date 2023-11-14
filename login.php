@@ -108,11 +108,11 @@ if($_SERVER["REQUEST_METHOD"] === "POST"){
 
                 
                 <p class="login"> Don't have an account? <br>
-                    <a href="signup.html"> Register </a>here</a>
+                    <a href="signup.html" class="link" > Register </a>here
                 </p>
 
                 <p>
-                    <a href="password_reset.php" >Forgotten Password?</a>
+                    <a href="forgot-password.php" class="link" >Forgotten Password?</a>
                 </p>
 
                 <p class="socials"> Login with:</p>
